@@ -17,7 +17,7 @@
         <a href="#">Contact</a>
       </p>
 
-      <p class="footer-company-name">Company Name © 2015</p>
+      <p class="footer-company-name">Mzansi Curator © 2021</p>
 
       <div class="footer-icons">
         <a href="#"><i class="fa fa-facebook"></i></a>
